@@ -9,9 +9,10 @@ public class SearchList {
     private Integer value;
     private Integer output;
 
-    public SearchList(ArrayList<Integer> intputList, Integer value) {
+    public SearchList(ArrayList<Integer> intputList, Integer value, Integer output) {
         this.inputList = intputList;
         this.value = value;
+        this.output = output;
     }
 
     public String getOperation(){
@@ -27,6 +28,10 @@ public class SearchList {
 
     public Integer getOutput(){
         return output;
+    }
+
+    public void setOutput(Integer output){
+        this.output = output;
     }
 
 }

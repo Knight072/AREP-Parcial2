@@ -19,7 +19,8 @@ public class SearchController {
     }
 
     @GetMapping("search")
-    public SearchList getLinearSearch(@RequestParam ArrayList<Integer> list, @RequestParam String value) {
-        return linearSearch.getSearchList(list, 2);
+    public SearchList getLinearSearch(@RequestParam ArrayList<Integer> list, @RequestParam Integer value) {
+        System.out.print(list);
+        return linearSearch.getSearchList(list, value);
     }
 }
