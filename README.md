@@ -1,5 +1,6 @@
-#Parcial2 
-##Alcance entrega
+# Parcial 2 
+
+## Alcance de la entrega
 
 - El proxy hace petición al servicio de busqueda linear.
 - El proyecto esta estructurado por carpetas. Hay una para el proxy y otra para el servicio de busqueda linear.
@@ -9,6 +10,7 @@
   ![image](https://github.com/user-attachments/assets/80ac3752-e33e-44a4-b87e-53df67bc7a14)
 
 ##Modificación
+
 ###Cliente Funcionando
 ![image](https://github.com/user-attachments/assets/0012ac50-fda0-47cc-b4ad-ca298f9ab3f0)
 
