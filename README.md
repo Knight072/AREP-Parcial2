@@ -1,5 +1,41 @@
 # Parcial 2 
 
+## Instalación y Ejecución
+Las siguientes instrucciones son para ejecutar el proyecto de forma local. El primer paso es instalar java, git y maven en su equipo con las siguientes versiones:
+
+* Apache Maven 3.9.6
+
+* Java 17
+ 
+después de esto clonar el repositorio desde la terminal de la siguiente manera:
+
+```
+git clone https://github.com/Knight072/AREP-Parcial2
+```
+
+* Para ejecutar la aplicación nos dirigimos a cada carpeta para compilar el proyecto y ejecutarlo
+  
+* * Para ejecutar el proxy nos dirigimos a la carpeta AREP-Parcial2Proxy, primero compilamos y luego ejecutamos, la cual correra por el puerto 8080: http://localhost:8080
+ ```
+mvn clean install
+```
+
+```
+java -jar target/AREP-Parcial2-1.0.jar
+```
+* * Para ejecutar los servicios nos dirigimos a la carpeta AREP-Parcial2Search, primero compilamos y luego ejecutamos, la cual correra por el puerto 8081 o 8082 según como se especifique el puerto, los dos servicios de busqueda se encuentran funcionando:
+```
+mvn clean install
+```
+
+```
+java -jar target/AREP-Parcial2LinearSearch-1.0-SNAPSHOT.jar --server.port=8082
+
+```
+![image](https://github.com/user-attachments/assets/13769bd5-a283-440c-aeee-e5b887f5f22d)
+
+Por último, se ingresa desde un Browser a la dirección http://localhost:8080 para interactuar con la aplicación web.
+
 ## Alcance de la entrega
 
 - El proxy hace petición al servicio de busqueda linear.
