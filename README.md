@@ -56,6 +56,9 @@ Por último, se ingresa desde un Browser a la dirección http://localhost:8080 p
 ### LinearSearch Funcionando
 ![image](https://github.com/user-attachments/assets/e1d338cf-1987-4ab8-b540-388613236643)
 
+### RoundRobin Implementado
+![image](https://github.com/user-attachments/assets/ea7242bc-4338-47e2-b366-03ee4861a0a3)
+
 
 
 
