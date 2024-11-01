@@ -18,7 +18,8 @@
 ![image](https://github.com/user-attachments/assets/ff1a5670-c30e-455c-91bb-65fe6741af16)
 
 ### LinearSearch Funcionando
-![image](https://github.com/user-attachments/assets/7969e487-46d2-49e5-9458-d20dbb085d77)
+![image](https://github.com/user-attachments/assets/e1d338cf-1987-4ab8-b540-388613236643)
+
 
 
 
