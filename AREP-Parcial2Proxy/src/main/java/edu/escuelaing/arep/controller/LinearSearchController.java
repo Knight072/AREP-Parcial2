@@ -10,14 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.ArrayList;
 
 @RestController
-@RequestMapping
+@RequestMapping("search")
 public class LinearSearchController {
-    @GetMapping("linear")
-    public String getLinearSearch(@RequestParam ArrayList<Integer> list, @RequestParam Integer value){
-        ArrayList<Integer> alist = new ArrayList<>();
-        for(int i = 0; i <= 10; i++) list.add(i);
+    @GetMapping
+    public SearchList getLinearSearch(@RequestParam ArrayList<Integer> list, @RequestParam Integer value, @RequestParam String searchType){
         try {
-            return LinearSearchConnection.connection(alist, 9);
+            return LinearSearchConnection.connection(list, value, searchType);
         } catch (Exception e) {
             e.printStackTrace();
         }

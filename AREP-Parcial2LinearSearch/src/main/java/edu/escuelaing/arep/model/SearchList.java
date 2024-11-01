@@ -4,12 +4,13 @@ import java.util.ArrayList;
 
 
 public class SearchList {
-    private final String operation = "linearSearch";
+    private String operation;
     private ArrayList<Integer> inputList;
     private Integer value;
     private Integer output;
 
-    public SearchList(ArrayList<Integer> intputList, Integer value, Integer output) {
+    public SearchList(String operation, ArrayList<Integer> intputList, Integer value, Integer output) {
+        this.operation = operation;
         this.inputList = intputList;
         this.value = value;
         this.output = output;

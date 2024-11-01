@@ -15,8 +15,7 @@ public class LinearSearch {
                 break;
             }
         }
-        SearchList searchList = new SearchList(values, value, output);
+        SearchList searchList = new SearchList("linearSearch", values, value, output);
         return searchList;
     }
-
 }
