@@ -68,6 +68,7 @@ Por último, se ingresa desde un Browser a la dirección http://localhost:8080 p
 ### Despliegue MathService puerto 8082
 ![image](https://github.com/user-attachments/assets/c46209e8-52e7-4cbe-b663-897195c34f98)
 
-
+### Video Demostrativo de Despliegue y Funcionamiento
+https://youtu.be/3S-XArPS9jY
 
 
