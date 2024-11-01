@@ -10,7 +10,7 @@ Las siguientes instrucciones son para ejecutar el proyecto de forma local. El pr
 después de esto clonar el repositorio desde la terminal de la siguiente manera:
 
 ```
-git clone [https://github.com/Knight072/AREP-Parcial2](https://github.com/Knight072/AREP-Parcial2.git)
+git clone https://github.com/Knight072/AREP-Parcial2.git
 ```
 
 * Para ejecutar la aplicación nos dirigimos a cada carpeta para compilar el proyecto y ejecutarlo
