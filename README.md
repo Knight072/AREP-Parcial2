@@ -9,15 +9,15 @@
 
   ![image](https://github.com/user-attachments/assets/80ac3752-e33e-44a4-b87e-53df67bc7a14)
 
-##Modificación
+## Modificación
 
-###Cliente Funcionando
+### Cliente Funcionando
 ![image](https://github.com/user-attachments/assets/0012ac50-fda0-47cc-b4ad-ca298f9ab3f0)
 
-###BinarySearch Funcionando
+### BinarySearch Funcionando
 ![image](https://github.com/user-attachments/assets/ff1a5670-c30e-455c-91bb-65fe6741af16)
 
-###LinearSearch Funcionando
+### LinearSearch Funcionando
 ![image](https://github.com/user-attachments/assets/7969e487-46d2-49e5-9458-d20dbb085d77)
 
 
