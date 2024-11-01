@@ -59,6 +59,15 @@ Por último, se ingresa desde un Browser a la dirección http://localhost:8080 p
 ### RoundRobin Implementado
 ![image](https://github.com/user-attachments/assets/ea7242bc-4338-47e2-b366-03ee4861a0a3)
 
+### Despliegue Proxy
+![image](https://github.com/user-attachments/assets/d29d1ffe-5618-4d76-9205-e21da8f6d3b7)
+
+### Despliegue MathService puerto 8081
+![image](https://github.com/user-attachments/assets/dd146ee1-a363-44bd-9423-f28db1249529)
+
+### Despliegue MathService puerto 8082
+![image](https://github.com/user-attachments/assets/c46209e8-52e7-4cbe-b663-897195c34f98)
+
 
 
 
